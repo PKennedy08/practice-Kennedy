@@ -36,9 +36,10 @@ Incubus is my **favorite** band because **I like a lot of their songs** and I li
 
 > "I'm on the pursuit of happiness and I know everything that shine aint always gonna be gold" - *Kid Cudi*
 
-
+<>
 ---
 # Code snippet
+'''
 const fileSystem = require('fs');
 const editFile = (fileName, text) => {
 	fileSystem.writeFile(fileName, text, (error) => {
@@ -46,5 +47,6 @@ const editFile = (fileName, text) => {
 		console.log('Replaced the file!');
 	});
 } 
+'''
 
 [link to the code snippet](https://pieces.app/collections/nodejs)
