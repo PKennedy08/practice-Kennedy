@@ -21,6 +21,7 @@ Incubus is my **favorite** band because **I like a lot of their songs** and I li
 ---
 <br>
  
+ ## Vaction table
 | name of location | reason why | distance from location | budget |
 | --- | --- | ---| ---: |
 | San Diego | The beaches sound nice | 1685 miles | $1850 |
