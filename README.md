@@ -33,4 +33,5 @@ Incubus is my **favorite** band because **I like a lot of their songs** and I li
 ---
 # song verse
 > "Birds sing flying around, never see them to close to the ground" - *Kid Cudi*
-> "I'm on the pursuit of happiness and I know everything that shine aint always gonna be gold" - Kid Cudi
+
+> "I'm on the pursuit of happiness and I know everything that shine aint always gonna be gold" - *Kid Cudi*
