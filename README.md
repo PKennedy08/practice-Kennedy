@@ -50,4 +50,4 @@ const editFile = (fileName, text) => {
 ```
 edits the file with text and will throw an error if it fails
 
-[link to the code snippet](https://pieces.app/collections/nodejs)
+<https://pieces.app/collections/nodejs>
