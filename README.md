@@ -39,7 +39,7 @@ Incubus is my **favorite** band because **I like a lot of their songs** and I li
 <>
 ---
 # Code snippet
-'''
+```
 const fileSystem = require('fs');
 const editFile = (fileName, text) => {
 	fileSystem.writeFile(fileName, text, (error) => {
@@ -47,6 +47,7 @@ const editFile = (fileName, text) => {
 		console.log('Replaced the file!');
 	});
 } 
-'''
+```
+edits the file with text and will throw an error if it fails
 
 [link to the code snippet](https://pieces.app/collections/nodejs)
