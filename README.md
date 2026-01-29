@@ -35,3 +35,16 @@ Incubus is my **favorite** band because **I like a lot of their songs** and I li
 > "Birds sing flying around, never see them to close to the ground" - *Kid Cudi*
 
 > "I'm on the pursuit of happiness and I know everything that shine aint always gonna be gold" - *Kid Cudi*
+
+
+---
+# Code snippet
+const fileSystem = require('fs');
+const editFile = (fileName, text) => {
+	fileSystem.writeFile(fileName, text, (error) => {
+		if (error) throw error;
+		console.log('Replaced the file!');
+	});
+} 
+
+[link to the code snippet](https://pieces.app/collections/nodejs)
